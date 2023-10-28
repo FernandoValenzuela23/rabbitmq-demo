@@ -1,0 +1,12 @@
+.vs/
+RabbitMQReceiver1/bin/
+RabbitMQReceiver1/obj/
+RabbitMQReceiver2/bin/
+RabbitMQReceiver2/obj/
+RabbitMQSender/bin/
+RabbitMQSender/obj/
+*.user
+artifacts/
+.vscode/
+.dotnet/
+*.binlog
